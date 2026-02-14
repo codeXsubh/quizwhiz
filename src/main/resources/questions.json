@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which language runs in the JVM?",
+    "options": ["Python", "C++", "Java", "Go"],
+    "answer": 2
+  },
+  {
+    "question": "Which data structure uses FIFO?",
+    "options": ["Stack", "Queue", "Tree", "Graph"],
+    "answer": 1
+  },
+  {
+    "question": "What is the time complexity of Binary Search?",
+    "options": ["O(n)", "O(log n)", "O(n^2)", "O(1)"],
+    "answer": 1
+  },
+  {
+    "question": "Which keyword is used to inherit a class in Java?",
+    "options": ["this", "super", "extends", "implements"],
+    "answer": 2
+  },
+  {
+    "question": "Which collection does not allow duplicates?",
+    "options": ["List", "Set", "ArrayList", "Vector"],
+    "answer": 1
+  },
+  {
+    "question": "Which company developed Java?",
+    "options": ["Microsoft", "Sun Microsystems", "Apple", "Google"],
+    "answer": 1
+  },
+  {
+    "question": "Which method is the entry point of a Java program?",
+    "options": ["start()", "run()", "main()", "init()"],
+    "answer": 2
+  },
+  {
+    "question": "Which sorting algorithm has best average complexity?",
+    "options": ["Bubble Sort", "Selection Sort", "Merge Sort", "Insertion Sort"],
+    "answer": 2
+  },
+  {
+    "question": "Which principle means data hiding?",
+    "options": ["Encapsulation", "Inheritance", "Polymorphism", "Abstraction"],
+    "answer": 0
+  },
+  {
+    "question": "Which operator is used for logical AND?",
+    "options": ["&", "&&", "|", "||"],
+    "answer": 1
+  }
+]
